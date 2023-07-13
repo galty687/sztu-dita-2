@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"connecting_with_hdmi-d196e49":{"topics":[{"title":"HDMI 连接线","shortdesc":"<p class=\"shortdesc\">介绍通过HDMI线连接投影仪<\/p>","href":"hdmi.html","attributes":{"data-id":"hdmi"},"menu":{"hasChildren":false},"tocID":"hdmi-d196e57","topics":[]}]}};
